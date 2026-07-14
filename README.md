@@ -2,7 +2,7 @@
 
 Learning to become a full-stack engineer. My goal is to bring everyday "I wish this existed" ideas to life through technology.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,6 +18,6 @@ Learning to become a full-stack engineer. My goal is to bring everyday "I wish t
 
 Still learning and growing every day 🌱
 
-## 🚀 Projects
+## Projects
 
 Coming soon — currently preparing to publish my project repos.
